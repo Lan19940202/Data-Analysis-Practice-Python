@@ -1,2 +1,2 @@
-# Data-analysis-using-pandas-and-numpy
-This repository contains some of my data wrangling parctice using panda and numpy and data visualization parctice using seaborn and matplotlib.
+# Data wrangling and visualization practice(Python)
+* This repository contains some of my data wrangling practice using panda and numpy and data visualization practice using seaborn and matplotlib.
